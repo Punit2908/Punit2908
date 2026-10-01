@@ -1,85 +1,174 @@
 <div align="center">
 
-# 👋 Hey, I'm Punit
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PUNIT%20JANGRA&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%7C%20Linux%20%7C%20DSA&descAlign=50&descAlignY=58&fontSize=48&descSize=18&animation=fadeIn&color=0:0f172a,45:172554,100:6d28d9&fontColor=ffffff" width="100%"/>
 
-### `Full-Stack Developer` · `Backend Developer` · `Problem Solver` · `Linux Enthusiast`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences+%F0%9F%9A%80;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+%7C+APIs+%7C+DSA+%7C+Linux;Turning+ideas+into+working+products+%E2%9A%A1" alt="Typing SVG" />
-
-<br/>
+<br>
 
 <a href="https://punitjangraportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/Punit2908">
-  <img src="https://img.shields.io/badge/GitHub-Punit2908-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-Punit2908-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Punit2908&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work+%F0%9F%9A%80;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+%7C+APIs+%7C+DSA+%7C+Linux;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Punit2908&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `01` · WHO AM I?
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Hey, I'm Punit 👋
+
+I'm a **Full-Stack / Backend Developer** who enjoys turning ideas into polished, usable web applications.
+
+My main playground is the **JavaScript ecosystem**, but I also spend an unreasonable amount of time with Linux, DSA, APIs, and figuring out why something worked perfectly five minutes ago.
+
+I care about:
+
+* ⚡ Fast and responsive interfaces
+* 🎨 Modern UI/UX
+* 🔌 Clean REST APIs
+* 🧠 Data structures & problem solving
+* 🗄️ Practical database design
+* 🐧 Linux & developer environments
+* 🔐 Cyber security & networking
+* 🚀 Building things people can actually use
+
+</td>
+
+<td width="42%" valign="top">
 
 ```js
 const punit = {
-    role: "Full-Stack / Backend Developer",
-    location: "India 🇮🇳",
+  role: "Full-Stack Developer",
+  location: "India 🇮🇳",
 
-    interests: [
-        "Web Development",
-        "Backend Engineering",
-        "REST APIs",
-        "DSA & Problem Solving",
-        "Linux & Open Source",
-        "Cyber Security"
-    ],
+  frontend: [
+    "React",
+    "JavaScript",
+    "Tailwind",
+    "HTML",
+    "CSS"
+  ],
 
-    frontend: ["React", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    databases: ["MongoDB", "SQL"],
-    languages: ["JavaScript", "C++", "Python", "C", "C++"],
-    tools: ["Git", "GitHub", "VS Code", "Vite", "Linux"],
+  backend: [
+    "Node.js",
+    "Express",
+    "REST APIs"
+  ],
 
-    currentlyLearning: [
-        "Backend Architecture",
-        "System Design",
-        "Advanced JavaScript",
-        "DSA",
-        "Linux & Networking"
-    ],
+  database: [
+    "MongoDB",
+    "SQL"
+  ],
 
-    philosophy: "Build → Break → Debug → Learn → Repeat 🚀"
+  languages: [
+    "JavaScript",
+    "C++",
+    "Python",
+    "C"
+  ],
+
+  environment: [
+    "Linux",
+    "Git",
+    "Vite",
+    "VS Code"
+  ],
+
+  mindset:
+    "Build → Break → Debug → Learn"
 };
 ```
 
-I enjoy building **real-world applications**, experimenting with new technologies, and figuring out why something stopped working five minutes after it was working perfectly.
-
-Currently focused on becoming stronger in **backend development, system design, DSA, and modern full-stack development**.
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Tech Stack
+## `02` · MY SIGNATURE
 
 <div align="center">
 
-### 🎨 Frontend
+### ✦ Dark interfaces · Glass surfaces · Neon accents · Clean architecture
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🌌 Visual
+
+**Dark-first interfaces**
+
+`Glassmorphism` · `Gradients` · `Glow`
+
+</td>
+
+<td align="center">
+
+### ⚡ Experience
+
+**Fast & interactive**
+
+`Animations` · `Micro UX` · `Responsive`
+
+</td>
+
+<td align="center">
+
+### 🧠 Engineering
+
+**Simple underneath**
+
+`Components` · `APIs` · `Reusable Code`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `03` · TECH STACK
+
+<div align="center">
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 
-### ⚙️ Backend
+<br><br>
+
+### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-### 🧠 Languages
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+### Languages
 
-### 🛠️ Tools & Environment
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
+
+<br><br>
+
+### Tools & Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm" />
 
@@ -87,49 +176,49 @@ Currently focused on becoming stronger in **backend development, system design, 
 
 ---
 
-# 🚀 Featured Projects
+## `04` · SELECTED WORK
 
-A few things I've built, worked on, or am currently developing.
+<div align="center">
+
+### 🚀 Projects that made it out of the localhost dimension
+
+</div>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎌 Muryo Anime
+<h3>🎌 Muryo Anime</h3>
 
-**Anime discovery and streaming-focused web platform.**
+A modern anime discovery platform focused on a clean, immersive browsing experience.
 
-Built around a modern frontend experience with a focus on smooth navigation, content discovery and a clean UI.
+**Built with**
 
-**Stack**
+`React` `JavaScript` `Vite` `APIs`
 
-`React` `JavaScript` `API` `Vite`
-
-<br/>
+<br>
 
 <a href="https://muryoanime.xyz">
-<img src="https://img.shields.io/badge/🌐%20Live%20Website-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📸 Galaxy Photography
+<h3>📸 Galaxy Photography</h3>
 
-**Photography portfolio website.**
+A visual-first photography platform designed around immersive galleries, elegant layouts and modern presentation.
 
-A visual-focused website designed to showcase photography work through an immersive and modern interface.
+**Built with**
 
-**Stack**
+`React` `JavaScript` `CSS` `UI/UX`
 
-`React` `JavaScript` `CSS` `Web Design`
-
-<br/>
+<br>
 
 <a href="https://galaxyphotography.in">
-<img src="https://img.shields.io/badge/🌐%20Live%20Website-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
@@ -138,42 +227,38 @@ A visual-focused website designed to showcase photography work through an immers
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 HSCKaithal
+<h3>🎓 HSCKaithal</h3>
 
-**Educational institute website.**
+A modern educational institute website focused on courses, information architecture and student-facing experiences.
 
-A modern website for course information, institute content and student-facing information.
+**Built with**
 
-**Stack**
+`React` `Vite` `JavaScript` `Tailwind`
 
-`React` `Vite` `JavaScript` `Tailwind CSS`
-
-<br/>
+<br>
 
 <a href="https://hsckaithal.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Website-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Hartron LMS
+<h3>📚 Hartron LMS</h3>
 
-**Learning Management System**
+A full-stack learning management system covering courses, students, learning content and administration.
 
-A full-stack LMS project focused on courses, students, learning content and administration.
-
-**Stack**
+**Built with**
 
 `React` `Node.js` `Express` `MongoDB`
 
-<br/>
+<br>
 
 <a href="https://github.com/Punit2908/hartronLMS">
-<img src="https://img.shields.io/badge/💻%20Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -183,136 +268,260 @@ A full-stack LMS project focused on courses, students, learning content and admi
 
 ---
 
-# 🧪 Other Projects & Experiments
-
-```text
-🌐 Web Applications
-├── Educational platforms
-├── Portfolio websites
-├── Content-driven applications
-└── Full-stack CRUD applications
-
-⚙️ Backend
-├── REST APIs
-├── Authentication systems
-├── Express.js servers
-├── Database integration
-└── API architecture
-
-🧠 DSA
-├── Arrays
-├── Strings
-├── Searching
-├── Sorting
-├── Sliding Window
-├── Hashing
-├── Trees
-└── Problem Solving
-
-🐧 Linux
-├── Arch-based systems
-├── Hyprland
-├── Shell scripting
-├── System configuration
-└── Developer environments
-```
-
----
-
-# 🧠 What I'm Working On
-
-```text
-[████████████████████░░] Backend Development
-[██████████████████░░░░] React & Full-Stack
-[████████████████░░░░░░] DSA
-[███████████████░░░░░░░] System Design
-[██████████████░░░░░░░░] Linux & Networking
-```
-
-### Current Focus
-
-* ⚙️ Building stronger **Node.js + Express** backends
-* 🔐 Learning better authentication and API architecture
-* 🧠 Improving **DSA & problem solving**
-* 🗄️ Working with **MongoDB and SQL**
-* 🐧 Exploring **Linux, shell scripting and system customization**
-* 🌐 Building and deploying real-world web applications
-
----
-
-# 📊 GitHub Stats
+# ✦ What I'm Building
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Punit2908&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
+### ⟡ CURRENT BUILDING ORBIT ⟡
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punit2908&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+<br>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="30%">
 
-<img src="https://streak-stats.demolab.com?user=Punit2908&theme=github-dark-blue&hide_border=true" />
+### ⚙️
+**Backend**
+
+<sub>APIs · Auth · Architecture</sub>
+
+</td>
+
+<td align="center" width="40%">
+
+### ✦ ◉ ✦
+**BUILDING**
+
+<sub>Full-Stack · Backend · Systems</sub>
+
+</td>
+
+<td align="center" width="30%">
+
+### 🐧
+**Linux**
+
+<sub>Shell · Networking · Systems</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧠
+**DSA**
+
+<sub>Algorithms · Problem Solving</sub>
+
+</td>
+
+<td align="center">
+
+### ⟡
+**SHIP → LEARN → REPEAT**
+
+<sub>Real projects over tutorial hell</sub>
+
+</td>
+
+<td align="center">
+
+### 🎨
+**UI / UX**
+
+<sub>React · Tailwind · Motion</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/⚡_Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚛_React-61DAFB?style=for-the-badge&logo=react&logoColor=111827"/>
+<img src="https://img.shields.io/badge/▲_Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/🍃_MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827"/>
+
+</div>
+
+### Current Focus
+
+- ⚙️ Stronger **Node.js + Express** backends
+- 🔐 Authentication, API architecture and database design
+- 🧠 **DSA & problem solving**
+- ⚛️ Modern **React + Tailwind** interfaces
+- 🐧 Linux, shell scripting and networking
+- 🚀 Building and shipping real-world applications
+
+---
+
+# ✧ The Developer Loop
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 💡 IDEA
+
+<sub>Find a problem</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### ✨ DESIGN
+
+<sub>Shape the experience</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### ⚡ BUILD
+
+<sub>Make it real</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">↑</td>
+<td></td>
+<td align="center">↓</td>
+<td></td>
+<td align="center">↓</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🧠 LEARN
+
+<sub>Understand the why</sub>
+
+</td>
+
+<td align="center">←</td>
+
+<td align="center">
+
+### 🚀 SHIP
+
+<sub>Put it out there</sub>
+
+</td>
+
+<td align="center">←</td>
+
+<td align="center">
+
+### 🔧 DEBUG
+
+<sub>Break it. Fix it.</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+### ✦ Build → Break → Debug → Learn → Ship → Repeat ✦
 
 </div>
 
 ---
 
-# 📈 My Developer Journey
+## `07` · GITHUB ACTIVITY
 
-```text
-                ┌───────────────────┐
-                │   Learn Something │
-                │       New         │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │      Build        │
-                │    Something      │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │      Break        │
-                │    Something      │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │      Debug        │
-                │    Everything     │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │      Repeat       │
-                │       🚀          │
-                └───────────────────┘
-```
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Punit2908&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=94A3B8&include_all_commits=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punit2908&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8&langs_count=8" width="42%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Punit2908&theme=transparent&hide_border=true&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="70%"/>
+
+</div>
 
 ---
 
-# 🌐 Find Me Around the Internet
+# 📈 Contribution Flow
+
+<div align="center">
+
+<a href="https://github.com/Punit2908">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Punit2908&theme=react-dark&bg_color=0D1117&color=94A3B8&line=8B5CF6&point=22D3EE&area=true&area_color=312E81&hide_border=true&radius=12&custom_title=Punit%27s%20Contribution%20Flow"
+width="100%"
+alt="Punit's GitHub contribution activity graph"
+/>
+
+</a>
+
+<br><br>
+
+<sub>✦ Live GitHub activity · last 31 days ✦</sub>
+
+</div>
+
+---
+
+## `09` · WHAT I LIKE BUILDING
+
+<table>
+<tr>
+<td align="center">🌐<br><b>Web Apps</b><br><sub>Modern & responsive experiences</sub></td>
+<td align="center">⚙️<br><b>Backend</b><br><sub>APIs & server architecture</sub></td>
+<td align="center">🎨<br><b>UI Systems</b><br><sub>Clean visual experiences</sub></td>
+</tr>
+
+<tr>
+<td align="center">📚<br><b>EdTech</b><br><sub>LMS & educational platforms</sub></td>
+<td align="center">🎌<br><b>Content Apps</b><br><sub>Discovery & media platforms</sub></td>
+<td align="center">🐧<br><b>Linux</b><br><sub>Systems & customization</sub></td>
+</tr>
+</table>
+
+---
+
+## `10` · LET'S CONNECT
 
 <div align="center">
 
 <a href="https://punitjangraportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Punit2908">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20GITHUB-111827?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<br><br>
 
----
+### Building something interesting?
 
-<div align="center">
+**Let's build it.**
 
-### 💭 "First make it work. Then make it better."
+<br>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:58A6FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:312E81,100:0F172A" width="100%"/>
 
 </div>
